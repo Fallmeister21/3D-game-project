@@ -3321,3 +3321,365 @@ Are you sure?
 [2023.04.10-17.37.24:562][383]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.10-17.37.24:562][383]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/OrderMap.OrderMap
 [2023.04.10-17.37.24:562][383]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/OrderMap_BuiltData.OrderMap_BuiltData
+[2023.04.10-17.44.06:400][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FantasyHouse_Wall_A_Plain8)
+[2023.04.10-17.44.08:335][901]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/OrderDestures/Textures/Wood-Dark_Mat.Wood-Dark_Mat
+[2023.04.10-17.44.08:337][901]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BA78E59A72DC5EBBA7EFC120C22F5438AAFBA318), compiling. 
+[2023.04.10-17.44.08:357][901]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.10-17.44.08:357][901]LogShaderCompilers: Display: Total job queries 596, among them cache hits 366 (61.41%)
+[2023.04.10-17.44.08:357][901]LogShaderCompilers: Display: Tracking 206 distinct input hashes that result in 110 distinct outputs (53.40%)
+[2023.04.10-17.44.08:357][901]LogShaderCompilers: Display: RAM used: 0.62 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.08%
+[2023.04.10-17.44.08:357][901]LogShaderCompilers: Display: ================================================
+[2023.04.10-17.44.08:451][901]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 85E20500B98BD73FD15DC1F117E42EFAE3320ADC), compiling. 
+[2023.04.10-17.44.08:453][901]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 08094A2AA2F0791047A5344F7C459470B6D12F40), compiling. 
+[2023.04.10-17.44.08:456][901]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 370F3C67A4AB0FE7892E52CFE257294E75208131), compiling. 
+[2023.04.10-17.44.08:473][901]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.08:473][901]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.08:473][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.08:559][902]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.04.10-17.44.08:559][902]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2023.04.10-17.44.08:559][902]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.04.10-17.44.08:559][902]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.08:559][902]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.08:559][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.08:559][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.08:640][907]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.08:640][907]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.10-17.44.08:640][907]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.10-17.44.08:640][907]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.17:974][438]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A882D6F686288D3C318DB3DDB74B1D84C8A1BBD7), compiling. 
+[2023.04.10-17.44.17:977][438]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.17:977][438]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.17:977][438]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.18:026][440]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.04.10-17.44.18:026][440]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2023.04.10-17.44.18:026][440]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.04.10-17.44.18:026][440]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.18:026][440]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.18:026][440]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.18:026][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.22:163][686]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 23057ADAAF1A54A8EEB15D868AC65A3D8AE7CB5D), compiling. 
+[2023.04.10-17.44.22:167][686]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.22:167][686]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.22:167][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.22:180][687]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.22:180][687]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.10-17.44.22:180][687]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.10-17.44.22:180][687]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.04.10-17.44.22:197][688]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.22:829][711]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.22:829][711]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.22:829][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.23:193][728]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.04.10-17.44.23:193][728]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2023.04.10-17.44.23:193][728]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.04.10-17.44.23:193][728]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.23:193][728]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.23:193][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.23:193][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.28:089][937]LogMaterialEditor: Applying material Wood-Dark_Mat
+[2023.04.10-17.44.28:557][937]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 09B3718C1B87841B79F0BFF7926CE6D50A07EBE5), compiling. 
+[2023.04.10-17.44.28:594][937]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 98B41317722010B5CA4560AAB28BBBEE2639558D), compiling. 
+[2023.04.10-17.44.28:612][937]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.28:612][937]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.10-17.44.28:612][937]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2023.04.10-17.44.28:692][937]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.28:710][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.04.10-17.44.29:252][937]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2023.04.10-17.44.29:252][937]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.29:270][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.10-17.44.29:283][937]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.29:283][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.29:283][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.29:326][939]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.10-17.44.29:326][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.29:326][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.29:375][941]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.04.10-17.44.29:375][941]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2023.04.10-17.44.29:375][941]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.04.10-17.44.29:375][941]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.29:375][941]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.10-17.44.29:375][941]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.29:375][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.34:205][154]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C8D9337C5F8FC17980255FDD603C209ADA9D01D8), compiling. 
+[2023.04.10-17.44.34:209][154]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.34:209][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.34:209][154]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.34:220][155]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.34:232][156]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.10-17.44.34:232][156]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.10-17.44.34:233][156]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.34:233][156]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.34:255][157]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.04.10-17.44.34:256][157]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.34:907][179]LogMaterialEditor: Applying material Wood-Dark_Mat
+[2023.04.10-17.44.35:226][179]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E9BF82DB7D98A4E2A22434136783481CC602B486), compiling. 
+[2023.04.10-17.44.35:257][179]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 25B30256644DD40FF0AE02208C90C2C2BA715E7F), compiling. 
+[2023.04.10-17.44.35:274][179]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.35:274][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2023.04.10-17.44.35:906][179]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.35:924][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.10-17.44.35:935][179]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.35:935][179]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.35:935][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.36:071][185]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.10-17.44.36:071][185]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.36:071][185]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.36:113][187]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.10-17.44.36:113][187]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.04.10-17.44.36:113][187]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.10-17.44.36:113][187]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.36:113][187]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.10-17.44.36:113][187]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.36:113][187]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.42:278][425]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A3174B0EEC859E52ECE62E45D0BF4FD3A4E4ACBA), compiling. 
+[2023.04.10-17.44.42:282][425]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.42:282][425]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.42:282][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.42:317][427]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.42:317][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.42:317][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.42:342][428]MaterialEditorStats: Base pass shader: 121 instructions
+[2023.04.10-17.44.42:342][428]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2023.04.10-17.44.42:342][428]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2023.04.10-17.44.42:342][428]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.42:342][428]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.42:342][428]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.42:342][428]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.44:826][574]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2F2DDF8B48A494B66340752FC8F6178673C59174), compiling. 
+[2023.04.10-17.44.44:830][574]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.44:830][574]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.44:830][574]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.44:842][575]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.44:842][575]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.10-17.44.44:842][575]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.10-17.44.44:842][575]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.04.10-17.44.44:858][576]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.45:557][601]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.45:557][601]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.45:557][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.45:678][606]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.10-17.44.45:678][606]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.04.10-17.44.45:678][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.10-17.44.45:678][606]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.45:678][606]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.45:678][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.45:678][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.48:482][768]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 22507CB4C3865E13DF1C04B87FBB0892AAF8CAEE), compiling. 
+[2023.04.10-17.44.48:486][768]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.48:486][768]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.48:486][768]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.48:528][770]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.10-17.44.48:528][770]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.04.10-17.44.48:528][770]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.10-17.44.48:528][770]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.48:528][770]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.48:528][770]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.48:528][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.50:929][913]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 58B9B2EAAB933C22374B46D4E635297F75F42F86), compiling. 
+[2023.04.10-17.44.50:932][913]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9827BBCCB70083611868284E5FAA9B17D45B2692), compiling. 
+[2023.04.10-17.44.50:933][913]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.50:933][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.50:933][913]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.50:962][915]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.50:962][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.50:962][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.50:982][916]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.10-17.44.50:982][916]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.04.10-17.44.50:982][916]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.10-17.44.50:982][916]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.50:982][916]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.50:982][916]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.50:982][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.53:636][ 73]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3ACF60C8D57B54CAB30E441E9615189097DC14D0), compiling. 
+[2023.04.10-17.44.53:641][ 73]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.44.53:641][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.53:641][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.53:653][ 74]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.04.10-17.44.53:667][ 75]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.54:372][102]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.54:372][102]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.54:372][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.54:496][108]MaterialEditorStats: Base pass shader: 113 instructions
+[2023.04.10-17.44.54:496][108]MaterialEditorStats: Base pass shader with Surface Lightmap: 134 instructions
+[2023.04.10-17.44.54:496][108]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2023.04.10-17.44.54:496][108]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.54:496][108]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.44.54:496][108]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.54:496][108]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.44.56:450][223]LogMaterialEditor: Saving and Compiling material Wood-Dark_Mat
+[2023.04.10-17.44.56:756][223]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 58251DF6C2427673E082DEDCACF68FEDC239E2FB), compiling. 
+[2023.04.10-17.44.56:786][223]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8558194AEB32E65AF7A5F0310F764E2080950688), compiling. 
+[2023.04.10-17.44.56:810][223]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.56:810][223]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.10-17.44.56:810][223]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.56:811][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2023.04.10-17.44.57:450][223]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.44.57:469][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.10-17.44.57:545][223]LogSavePackage: Moving '../../../../../../Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Wood-Dark_Mat6C14AC1E43834EDFF60505A4963535BB.tmp' to '../../../../../../Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Content/Assets/OrderDestures/Textures/Wood-Dark_Mat.uasset'
+[2023.04.10-17.44.57:563][223]AssetCheck: New page: Asset Save: Wood-Dark_Mat
+[2023.04.10-17.44.57:563][223]LogContentValidation: Display: Validating Material /Game/Assets/OrderDestures/Textures/Wood-Dark_Mat.Wood-Dark_Mat
+[2023.04.10-17.44.57:563][223]MaterialEditorStats: Base pass shader: 113 instructions
+[2023.04.10-17.44.57:563][223]MaterialEditorStats: Base pass shader with Surface Lightmap: 134 instructions
+[2023.04.10-17.44.57:563][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2023.04.10-17.44.57:563][223]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.44.57:563][223]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.10-17.44.57:563][223]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.44.57:563][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.45.04:968][627]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 902007EC5188F8743BAD6C7C26E80B4EAFD73B3C), compiling. 
+[2023.04.10-17.45.04:970][627]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 65FD17B860BCCD941FAB4CD763128CA0AEFAA083), compiling. 
+[2023.04.10-17.45.04:972][627]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.10-17.45.04:972][627]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.45.04:972][627]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.45.04:984][628]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.45.04:984][628]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.04.10-17.45.04:984][628]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.04.10-17.45.04:984][628]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.04.10-17.45.04:998][629]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.45.05:663][658]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.45.05:664][658]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.45.05:664][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.45.05:834][666]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.10-17.45.05:834][666]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.04.10-17.45.05:834][666]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.10-17.45.05:834][666]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.45.05:834][666]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.45.05:834][666]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.45.05:834][666]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.45.06:424][701]LogMaterialEditor: Applying material Wood-Dark_Mat
+[2023.04.10-17.45.06:736][701]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6E3DD17B3C76650344AA4B59EBDDC346CFEDC6A7), compiling. 
+[2023.04.10-17.45.06:767][701]LogMaterial: Display: Missing cached shadermap for Wood-Dark_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 04A39EA6964CDE73C8BC45E0F60084D0F349D3F0), compiling. 
+[2023.04.10-17.45.06:787][701]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.45.06:787][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.04.10-17.45.07:423][701]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.10-17.45.07:443][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.10-17.45.07:453][701]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.10-17.45.07:453][701]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.45.07:453][701]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.45.07:548][704]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.10-17.45.07:548][704]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.45.07:548][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.45.07:568][705]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.10-17.45.07:568][705]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.04.10-17.45.07:568][705]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.04.10-17.45.07:568][705]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.10-17.45.07:568][705]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.10-17.45.07:568][705]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.04.10-17.45.07:568][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.10-17.45.13:770][ 61]LogSlate: Window 'Wood-Dark_Mat' being destroyed
+[2023.04.10-17.45.13:776][ 61]LogSlate: Window 'Wood-Dark_Mat' being destroyed
+[2023.04.10-17.45.13:788][ 61]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-17.45.13:788][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
