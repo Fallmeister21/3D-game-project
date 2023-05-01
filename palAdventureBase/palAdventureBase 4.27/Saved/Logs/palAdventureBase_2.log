@@ -1,0 +1,1245 @@
+﻿Log file open, 04/30/23 21:56:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: palAdventureBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.228940
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 6800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/Mabel/Maps/OrderMap -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=30 SAVEWINPOS=1 -ResX=1910 -ResY=986
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.01-01.56.42:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.05.01-01.56.42:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.01-01.56.42:091][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.01-01.56.42:096][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:096][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.01-01.56.42:096][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.01-01.56.42:096][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.01-01.56.42:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.01-01.56.42:098][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.01-01.56.42:098][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.01-01.56.42:098][  0]LogHAL: Display: Platform has ~ 16 GB [16312721408 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.01-01.56.42:098][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.01-01.56.42:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.01-01.56.42:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.01-01.56.42:099][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.01-01.56.42:100][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:100][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.01-01.56.42:100][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.01-01.56.42:100][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.05.01-01.56.42:100][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.01-01.56.42:100][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.01-01.56.42:100][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.01-01.56.42:100][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.01-01.56.42:108][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.05.01-01.56.42:109][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.05.01-01.56.42:109][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.05.01-01.56.42:109][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Engine.ini]
+[2023.05.01-01.56.42:109][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Config/Windows/Editor.ini]
+[2023.05.01-01.56.42:109][  0]LogInit: Computer: MABELGAYMING
+[2023.05.01-01.56.42:109][  0]LogInit: User: Mabel
+[2023.05.01-01.56.42:109][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.05.01-01.56.42:109][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.01-01.56.42:109][  0]LogMemory: Memory total: Physical=15.2GB (16GB approx)
+[2023.05.01-01.56.42:109][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.01-01.56.42:109][  0]LogMemory: Process Physical Memory: 148.77 MB used, 148.77 MB peak
+[2023.05.01-01.56.42:109][  0]LogMemory: Process Virtual Memory: 131.61 MB used, 131.61 MB peak
+[2023.05.01-01.56.42:109][  0]LogMemory: Physical Memory: 12542.09 MB used,  3014.93 MB free, 15557.02 MB total
+[2023.05.01-01.56.42:109][  0]LogMemory: Virtual Memory: 134211200.00 MB used,  6529.07 MB free, 134217728.00 MB total
+[2023.05.01-01.56.42:158][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.01-01.56.42:217][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.05.01-01.56.42:217][  0]LogInit: Using OS detected language (en-US).
+[2023.05.01-01.56.42:217][  0]LogInit: Using OS detected locale (en-US).
+[2023.05.01-01.56.42:226][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.05.01-01.56.42:714][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.01-01.56.42:750][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.01-01.56.42:750][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.01-01.56.42:763][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.05.01-01.56.42:822][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.01-01.56.42:822][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.05.01-01.56.42:822][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.05.01-01.56.42:822][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.01-01.56.42:939][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (Feature Level 11_0)
+[2023.05.01-01.56.42:939][  0]LogD3D11RHI:       3977/0/7778 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.01-01.56.43:004][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.05.01-01.56.43:004][  0]LogD3D11RHI:       485/0/7778 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:       0/0/7778 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Laptop GPU
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     DeviceId    : 25a2
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     SubSysId    : 3af817aa
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     DedicatedVideoMemory : 4170186752 bytes
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     SharedSystemMemory : 8156360704 bytes
+[2023.05.01-01.56.43:007][  0]LogD3D11RHI:     AdapterLuid : 0 77476
+[2023.05.01-01.56.43:018][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.01-01.56.43:018][  0]LogD3D11RHI:     GPU DeviceId: 0x25a2 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.01-01.56.43:018][  0]LogWindows: EnumDisplayDevices:
+[2023.05.01-01.56.43:018][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.05.01-01.56.43:018][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.05.01-01.56.43:019][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.05.01-01.56.43:019][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.05.01-01.56.43:019][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.05.01-01.56.43:020][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2023.05.01-01.56.43:020][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:   Driver Version: 527.83 (internal:31.0.15.2783, unified:527.83)
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:      Driver Date: 12-15-2022
+[2023.05.01-01.56.43:020][  0]LogRHI: Texture pool is 2783 MB (70% of 3977 MB)
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Laptop GPU
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     DeviceId    : 25a2
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     SubSysId    : 3af817aa
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     DedicatedVideoMemory : 4170186752 bytes
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     SharedSystemMemory : 8156360704 bytes
+[2023.05.01-01.56.43:020][  0]LogD3D11RHI:     AdapterLuid : 0 77476
+[2023.05.01-01.56.43:078][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.05.01-01.56.43:078][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.01-01.56.43:078][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.05.01-01.56.43:094][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.05.01-01.56.43:127][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.05.01-01.56.43:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.05.01-01.56.43:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.01-01.56.43:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.01-01.56.43:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.01-01.56.43:501][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.01-01.56.43:512][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.01-01.56.43:558][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.05.01-01.56.43:603][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.01-01.56.43:603][  0]LogShaderCompilers: Guid format shader working directory is -56 characters bigger than the processId version (../../../../../../Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Intermediate/Shaders/WorkingDirectory/13756/).
+[2023.05.01-01.56.43:604][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mabel/AppData/Local/Temp/UnrealShaderWorkingDir/ED98006F421002BC09D034BF664707B5/'.
+[2023.05.01-01.56.43:604][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.01-01.56.43:604][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.01-01.56.43:604][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.01-01.56.44:558][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.01-01.56.44:718][  0]LogDerivedDataCache: Loaded boot cache 0.16s 94MB C:/Users/Mabel/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.05.01-01.56.44:718][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mabel/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.05.01-01.56.44:718][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.01-01.56.44:718][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.01-01.56.44:718][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.01-01.56.44:718][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.01-01.56.44:738][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.01-01.56.44:738][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.01-01.56.44:738][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.05.01-01.56.44:799][  0]LogDerivedDataCache: Speed tests for C:/Users/Mabel/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2023.05.01-01.56.44:799][  0]LogDerivedDataCache: Display: Performance to C:/Users/Mabel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.34ms. RandomReadSpeed=18.92MBs, RandomWriteSpeed=132.60MBs. Assigned SpeedClass 'Local'
+[2023.05.01-01.56.44:800][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mabel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.01-01.56.44:800][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.01-01.56.44:800][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.01-01.56.44:843][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.01-01.56.44:860][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.01-01.56.45:023][  0]LogInit: Using OS detected language (en-US).
+[2023.05.01-01.56.45:023][  0]LogInit: Using OS detected locale (en-US).
+[2023.05.01-01.56.45:024][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.05.01-01.56.45:024][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2023.05.01-01.56.45:024][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.05.01-01.56.45:024][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.05.01-01.56.45:029][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2023.05.01-01.56.45:029][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2023.05.01-01.56.45:203][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.000958 seconds
+[2023.05.01-01.56.45:273][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.01-01.56.45:273][  0]LogInit: Active device profile: [000001FCEBA0FE00][000001FCDF378BC0 49] Windows
+[2023.05.01-01.56.45:273][  0]LogInit: Profiles: [000001FCEBA0FE00][000001FCDF378BC0 49] Windows, [000001FCEBA23F00][000001FCDF380E80 49] WindowsNoEditor, [000001FCEBA0C200][000001FCDF385140 49] WindowsServer, [000001FCEBA23A00][000001FCDF389400 49] WindowsClient, [000001FCEBA0C100][000001FCDF38D6C0 49] IOS, [000001FCEBA23E00][000001FCDF391980 49] iPadAir, [000001FCEBA0C300][000001FCDF3940C0 49] iPadAir2, [000001FCEB9CCE00][000001FCDFA68580 49] IPadPro, [000001FCEB9CCF00][000001FCDF37C5C0 49] iPadAir3, [000001FCEBA0FD00][000001FCDFA64880 49] iPadAir4, [000001FCEB9CC600][000001FCDFA60B40 49] iPadMini2, [000001FCEBA0FA00][000001FCDFA6CE00 49] iPadMini3, [000001FCEB9CD500][000001FCDFA710C0 49] iPadMini4, [000001FCEBA0FB00][000001FCDFA75380 49] iPadMini5, [000001FCEBA21000][000001FCDFA898C0 49] iPhone6, [000001FCEBA21100][000001FCDFA79900 49] iPodTouch6, [000001FCEB9CFD00][000001FCDFA902C0 49] iPhone7, [000001FCEB9CFC00][000001FCDFA80300 49] iPodTouch7, [000001FCEBA20C00][000001FCDF398580 49] iPhone5S, [000001FCEB9CCC00][000001FCDFA7C840 49] iPhone6Plus, [000001FCEBA21600][000001FCDFA8CB00 49] iPhone6S, [000001FCEB9CF800][000001FCDFA94DC0 49] iPhone6SPlus, [000001FCEBA20400][000001FCDFA99080 49] iPhone7Plus, [000001FCEB9CC400][000001FCDFA9D340 49] iPhoneSE, [000001FCEBA23200][000001FCDFAA1600 49] iPhone8, [000001FCEB9CF100][000001FCDFAA58C0 49] iPhone8Plus, [000001FCEBA20500][000001FCDFE9DB80 49] iPhoneX, [000001FCEB9CD200][000001FCDFEA02C0 49] iPhoneXS, [000001FCEBA21D00][000001FCDFA84540 49] iPhoneXSMax, [000001FCEB9CED00][000001FCDFEA47C0 49] iPhoneXR, [000001FCEBA23B00][000001FCDFEACA80 49] iPhone11, [000001FCEB9CD100][000001FCDFEB0D40 49] iPhone11Pro, [000001FCEBA22000][000001FCDFEB5000 49] iPhone11ProMax, [000001FCEB9CEA00][000001FCDFEB92C0 49] iPhoneSE2, [000001FCEBA23000][000001FCDFEBD580 49] iPhone12Mini, [000001FCEB9CDC00][000001FCDFEC1840 49] iPhone12, [000001FCEBA22300][000001FCDFEC5B00 49] iPhone12Pro, [000001FCEB9CE700][000001FCDFEC8240 49] iPhone12ProMax, [000001FCEBA22A00][000001FCDFECC500 49] iPadPro105, [000001FCEB9CDB00][000001FCDFEA8780 49] iPadPro129, [000001FCEBA20300][000001FCDFED0A00 49] iPadPro97, [000001FCEB9CD300][000001FCDFED8CC0 49] iPadPro2_129, [000001FCEBA21800][000001FCDFEDCF80 49] iPad5, [000001FCEB9CE000][000001FCDFEE1240 49] iPad6, [000001FCEBA23D00][000001FCDFEE5500 49] iPad7, [000001FCEB9CFE00][000001FCDFC317C0 49] iPad8, [000001FCEBA21300][000001FCDFC35A80 49] iPadPro11, [000001FCEB9CF000][000001FCDFC381C0 49] iPadPro2_11, [000001FCEBA23400][000001FCDFC3C480 49] iPadPro3_129, [000001FCEB9CE400][000001FCDFC40740 49] iPadPro4_129, [000001FCEBA22B00][000001FCDFED49C0 49] AppleTV, [000001FCEB9CCD00][000001FCDFC44C40 49] AppleTV4K, [000001FCEBA21F00][000001FCDFC4CF00 49] TVOS, [000001FCEB9CF700][000001FCDFC511C0 49] Mac, [000001FCEBA20900][000001FCDFC55480 49] MacClient, [000001FCEB9CC100][000001FCDFC59740 49] MacNoEditor, [000001FCEBA20100][000001FCDFC5DA00 49] MacServer, [000001FCEB9CF500][000001FCDFC60140 49] Linux, [000001FCEBA23300][000001FCDFC64400 49] LinuxAArch64, [000001FCEB9CF600][000001FCDFC686C0 49] LinuxNoEditor, [000001FCEBA22E00][000001FCDFC6C980 49] LinuxAArch64NoEditor, [000001FCEB9CD800][000001FCDFC48C00 49] LinuxClient, [000001FCEBA20B00][000001FCDFC70E80 49] LinuxAArch64Client, [000001FCEB9CC700][000001FCDFC79140 49] LinuxServer, [000001FCEBA22400][000001FCDFC7D400 49] LinuxAArch64Server, [000001FCEB9CE500][000001FCDFC816C0 49] Android, [000001FCEBA22600][000001FCDFC85980 49] Android_Low, [000001FCEBA91300][000001FCDFC880C0 49] Android_Mid, [000001FCEBA0D200][000001FCDFC8C380 49] Android_High, [000001FCEBA91700][000001FCDFC90640 49] Android_Default, [000001FCEBA0D600][000001FCDFC94900 49] Android_Adreno4xx, [000001FCEBA91600][000001FCDFC98BC0 49] Android_Adreno5xx_Low, [000001FCEBA0ED00][000001FCDFC74E40 49] Android_Adreno5xx, [000001FCEBA91000][000001FCDFC9D0C0 49] Android_Adreno6xx, [000001FCEBA0DA00][000001FCDFCA5380 49] Android_Adreno6xx_Vulkan, [000001FCEBA91F00][000001FCDFCA9640 49] Android_Mali_T6xx, [000001FCEBA0D300][000001FCDFCAD900 49] Android_Mali_T7xx, [000001FCEBA90D00][000001FCDF65FBC0 49] Android_Mali_T8xx, [000001FCEBA0D000][000001FCDF662300 49] Android_Mali_G71, [000001FCEBA92000][000001FCDF6665C0 49] Android_Mali_G72, [000001FCEBA0C700][000001FCDF66A880 49] Android_Mali_G72_Vulkan, [000001FCEBA91800][000001FCDF66EB40 49] Android_Mali_G76, [000001FCEBA0DC00][000001FCDF672E00 49] Android_Mali_G76_Vulkan, [000001FCEBA91100][000001FCDFCA1080 49] Android_Mali_G77, [000001FCEBA0E300][000001FCDF677300 49] Android_Mali_G77_Vulkan, [000001FCEBA92C00][000001FCDF67F5C0 49] Android_Mali_G78, [000001FCEBA0F600][000001FCDF683880 49] Android_Mali_G78_Vulkan, [000001FCEBA21B00][000001FCDF687B40 49] Android_Mali_G710, [000001FCEB9CE900][000001FCDF68A280 49] Android_Mali_G710_Vulkan, [000001FCEBA22500][000001FCDF68E540 49] Android_Vulkan_SM5, [000001FCEB9CC200][000001FCDF692800 49] Android_PowerVR_G6xxx, [000001FCEBA90600][000001FCDF696AC0 49] Android_PowerVR_GT7xxx, [000001FCEB9CEB00][000001FCDF69AD80 49] Android_PowerVR_GE8xxx, [000001FCEBA92700][000001FCDF69F040 49] Android_PowerVR_GM9xxx, [000001FCEB9CC300][000001FCDF67B2C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001FCEBA91900][000001FCDF6A3540 49] Android_TegraK1, [000001FCEB9CCA00][000001FCDF6AB800 49] Android_Unknown_Vulkan, [000001FCEBA91C00][000001FCDF6AFAC0 49] Lumin, [000001FCEB9CCB00][000001FCDF6B2200 49] Lumin_Desktop, [000001FCEBA90200][000001FCDF6B64C0 49] HoloLens, 
+[2023.05.01-01.56.45:335][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.01-01.56.45:335][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.01-01.56.45:335][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.01-01.56.45:335][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.01-01.56.45:335][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.01-01.56.45:452][  0]LogNetVersion: palAdventureBase 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1129042344)
+[2023.05.01-01.56.45:792][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.01-01.56.45:857][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.05.01-01.56.46:013][  0]LogMoviePlayer: Initializing movie player
+[2023.05.01-01.56.46:147][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D5A4380543A79D7E7B3E06B545C037B7 | Instance: 6F1D4B2F40FE84700A4F7B9F373A10E5 (MABELGAYMING-13756).
+[2023.05.01-01.56.46:175][  0]LogCollectionManager: Loaded 0 collections in 0.002073 seconds
+[2023.05.01-01.56.46:177][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/Collections/' took 0.00s
+[2023.05.01-01.56.46:177][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Content/Developers/Mabel/Collections/' took 0.00s
+[2023.05.01-01.56.46:177][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Content/Collections/' took 0.00s
+[2023.05.01-01.56.46:177][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.05.01-01.56.46:239][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.01-01.56.46:244][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.01-01.56.46:377][  0]LogPython: Using Python 3.7.7
+[2023.05.01-01.56.46:929][  0]SourceControl: Source control is disabled
+[2023.05.01-01.56.46:929][  0]SourceControl: Source control is disabled
+[2023.05.01-01.56.46:932][  0]SourceControl: Source control is disabled
+[2023.05.01-01.56.46:942][  0]LogUProjectInfo: Found projects:
+[2023.05.01-01.56.47:003][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.01-01.56.47:019][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.01-01.56.47:019][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.01-01.56.47:179][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.01-01.56.47:208][  0]LogOcInput: OculusInput pre-init called
+[2023.05.01-01.56.47:216][  0]LogUObjectArray: 22121 objects as part of root set at end of initial load.
+[2023.05.01-01.56.47:216][  0]LogUObjectAllocator: 5975632 out of 0 bytes used by permanent object pool.
+[2023.05.01-01.56.47:216][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.01-01.56.47:276][  0]LogEngine: Initializing Engine...
+[2023.05.01-01.56.47:280][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.05.01-01.56.47:280][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.01-01.56.47:280][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.05.01-01.56.47:282][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.01-01.56.47:398][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.01-01.56.47:398][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.01-01.56.47:403][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.01-01.56.47:404][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.01-01.56.47:405][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.01-01.56.47:405][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.01-01.56.47:405][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.01-01.56.47:405][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.01-01.56.47:405][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.01-01.56.47:405][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.01-01.56.47:405][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.01-01.56.47:405][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.01-01.56.47:405][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.01-01.56.47:405][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.01-01.56.47:406][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.01-01.56.47:406][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.01-01.56.47:406][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.01-01.56.47:406][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.01-01.56.47:464][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.01-01.56.47:464][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.05.01-01.56.47:589][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.05.01-01.56.47:596][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.01-01.56.47:600][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.01-01.56.47:600][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.01-01.56.47:601][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.01-01.56.47:601][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.01-01.56.47:601][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.01-01.56.47:602][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.01-01.56.47:602][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.01-01.56.47:602][  0]LogInit: FAudioDevice initialized.
+[2023.05.01-01.56.47:604][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.01-01.56.47:606][  0]LogInit: Texture streaming: Enabled
+[2023.05.01-01.56.47:706][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.01-01.56.47:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-01.56.47:707][  0]LogInit: Display: Game Engine Initialized.
+[2023.05.01-01.56.47:707][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2023.05.01-01.56.47:842][  0]LogInit: Display: Starting Game.
+[2023.05.01-01.56.47:843][  0]LogNet: Browse: /Game/Mabel/Maps/OrderMap?Name=Player
+[2023.05.01-01.56.47:844][  0]LogLoad: LoadMap: /Game/Mabel/Maps/OrderMap?Name=Player
+[2023.05.01-01.56.47:844][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.05.01-01.56.47:845][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-01.56.47:845][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-01.56.47:850][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.01-01.56.47:853][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.01-01.56.50:793][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'OrderMap'.
+[2023.05.01-01.56.50:807][  0]LogAIModule: Creating AISystem for world OrderMap
+[2023.05.01-01.56.51:192][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.01-01.56.51:227][  0]LogWorld: Bringing World /Game/Mabel/Maps/OrderMap.OrderMap up for play (max tick rate 0) at 2023.04.30-21.56.51
+[2023.05.01-01.56.51:228][  0]LogWorld: Bringing up level for play took: 0.035341
+[2023.05.01-01.56.51:234][  0]LogStreaming: Warning: Failed to read file '../../../../../../Users/Mabel/Documents/GitHub/3D-game-project/palAdventureBase/palAdventureBase 4.27/Saved/SaveGames/EasyQuestsSave.sav' error.
+[2023.05.01-01.56.51:236][  0]LogLoad: Took 3.391863 seconds to LoadMap(/Game/Mabel/Maps/OrderMap)
+[2023.05.01-01.56.51:382][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2023.05.01-01.56.51:383][  0]LogSlate: Took 0.019299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.01-01.56.51:415][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.01-01.56.51:415][  0]LogLoad: (Engine Initialization) Total time: 10.59 seconds
+[2023.05.01-01.56.51:415][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.01-01.56.51:444][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.01-01.56.51:456][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-01.56.51:668][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2023.05.01-01.56.51:708][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:2).
+[2023.05.01-01.56.51:779][  1]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.01-01.56.59:378][817]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Quest IDs' of length 0 in '/Game/MarketplaceAssets/EasyQuests/Blueprints/BP_In_NPC.BP_In_NPC_C'!
+[2023.05.01-01.56.59:378][817]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Objective IDs' of length 0 in '/Game/MarketplaceAssets/EasyQuests/Blueprints/BP_In_NPC.BP_In_NPC_C'!
+[2023.05.01-01.56.59:381][817]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:383][818]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:387][819]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:392][820]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:395][821]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:399][822]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:403][823]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:407][824]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:412][825]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:416][826]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:420][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:424][828]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:428][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:434][830]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:438][831]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:442][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:445][833]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:450][834]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:455][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:459][836]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:463][837]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:468][838]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:472][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:476][840]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:480][841]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:486][842]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:490][843]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:494][844]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:497][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:501][846]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:505][847]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:509][848]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:513][849]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:516][850]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:520][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:524][852]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:527][853]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:531][854]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:535][855]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:538][856]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:542][857]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:545][858]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:550][859]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:553][860]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:557][861]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:561][862]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:565][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:569][864]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:572][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:576][866]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:580][867]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:583][868]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:587][869]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:591][870]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:595][871]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:600][872]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:604][873]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:607][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:611][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:614][876]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:618][877]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:622][878]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:626][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:630][880]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:635][881]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:638][882]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:641][883]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:645][884]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:649][885]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:652][886]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:656][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:660][888]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:663][889]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:666][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:672][891]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:676][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:679][893]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:683][894]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:687][895]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:691][896]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:696][897]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:701][898]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:704][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:708][900]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:711][901]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:715][902]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:719][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:722][904]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:726][905]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:730][906]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:734][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:737][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:741][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:744][910]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:748][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:752][912]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:755][913]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:759][914]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:763][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:768][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:771][917]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:775][918]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:779][919]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:783][920]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:787][921]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:791][922]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:795][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:799][924]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:802][925]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:806][926]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:810][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:813][928]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:817][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:821][930]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:825][931]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:828][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:832][933]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:835][934]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:839][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:842][936]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:846][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:849][938]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:853][939]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:857][940]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:861][941]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:865][942]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:869][943]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:873][944]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:877][945]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:881][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:884][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:888][948]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:891][949]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:896][950]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:900][951]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:903][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:907][953]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:910][954]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:914][955]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:918][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:922][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:925][958]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:931][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:934][960]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:937][961]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:941][962]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:945][963]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:949][964]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:952][965]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:957][966]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:960][967]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:964][968]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:968][969]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:972][970]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:975][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:978][972]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:982][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:985][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:989][975]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:994][976]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.56.59:998][977]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:001][978]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:005][979]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:008][980]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:013][981]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:018][982]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:021][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:026][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:031][985]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:035][986]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:039][987]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:042][988]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:046][989]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:050][990]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:054][991]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:061][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:064][993]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:068][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:071][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:075][996]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:078][997]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:083][998]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:088][999]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:094][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:097][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:101][  2]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:106][  3]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:110][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:115][  5]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:119][  6]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:124][  7]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:128][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:133][  9]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:137][ 10]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:141][ 11]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:145][ 12]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:150][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:154][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:160][ 15]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:166][ 16]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:170][ 17]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:174][ 18]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:180][ 19]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:184][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:190][ 21]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:194][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:198][ 23]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:202][ 24]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:208][ 25]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:211][ 26]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:216][ 27]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:220][ 28]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:225][ 29]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:230][ 30]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:234][ 31]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:239][ 32]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:243][ 33]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:247][ 34]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:251][ 35]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:256][ 36]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:261][ 37]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:265][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:270][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:275][ 40]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:280][ 41]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:284][ 42]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:290][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:294][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:298][ 45]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:302][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:306][ 47]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:310][ 48]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:314][ 49]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:319][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:324][ 51]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:328][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:333][ 53]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:337][ 54]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:341][ 55]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:346][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:350][ 57]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:354][ 58]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:359][ 59]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:363][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:368][ 61]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:371][ 62]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:376][ 63]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:380][ 64]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:384][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:389][ 66]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:393][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:397][ 68]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:401][ 69]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:406][ 70]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:410][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:414][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:418][ 73]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:424][ 74]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:428][ 75]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:433][ 76]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:439][ 77]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:442][ 78]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:447][ 79]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:451][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:456][ 81]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:459][ 82]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:464][ 83]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:469][ 84]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:474][ 85]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:478][ 86]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:483][ 87]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:489][ 88]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:494][ 89]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:499][ 90]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:503][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:508][ 92]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:512][ 93]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:516][ 94]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:521][ 95]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:525][ 96]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:530][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:534][ 98]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:539][ 99]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:542][100]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:547][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:550][102]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:555][103]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:559][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:563][105]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:567][106]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:572][107]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:576][108]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:581][109]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:584][110]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:590][111]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:595][112]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:599][113]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:603][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:607][115]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:612][116]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:616][117]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:621][118]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:624][119]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:630][120]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:634][121]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:638][122]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:642][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:647][124]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:651][125]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:656][126]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:660][127]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:664][128]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:668][129]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:672][130]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:676][131]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:681][132]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:685][133]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:690][134]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:694][135]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:699][136]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:703][137]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:707][138]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:711][139]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:715][140]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:721][141]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:725][142]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:728][143]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:732][144]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:736][145]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:740][146]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:744][147]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:749][148]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:753][149]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:757][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:761][151]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:765][152]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:769][153]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:773][154]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:777][155]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:781][156]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:785][157]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:789][158]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:792][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:797][160]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:800][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:805][162]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:808][163]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:812][164]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:816][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:820][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:824][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:828][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:832][169]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:836][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:840][171]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:843][172]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:847][173]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:851][174]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:855][175]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:858][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:862][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:865][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:869][179]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:873][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:876][181]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:881][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:884][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:889][184]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:892][185]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:896][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:900][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:903][188]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:907][189]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:911][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:914][191]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:919][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:923][193]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:926][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:929][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:934][196]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:937][197]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:941][198]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:945][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:949][200]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:954][201]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:956][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:960][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:965][204]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:968][205]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:972][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:976][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:981][208]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:984][209]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:989][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:993][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.00:996][212]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.01:000][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.01:004][214]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.01:007][215]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.01:010][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.01:014][217]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.01:018][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Text' of length 0 in '/Game/Assets/Widgets/WBP_Dialogue.WBP_Dialogue_C'!
+[2023.05.01-01.57.01:022][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Quest IDs' of length 0 in '/Game/MarketplaceAssets/EasyQuests/Blueprints/BP_In_NPC.BP_In_NPC_C'!
+[2023.05.01-01.57.04:336][984]LogSlate: Window 'palAdventureBase (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.05.01-01.57.04:342][984]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.01-01.57.04:352][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-01.57.04:352][984]LogEngine: All Windows Closed
+[2023.05.01-01.57.04:352][984]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.05.01-01.57.04:352][984]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.05.01-01.57.04:352][984]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.05.01-01.57.04:353][985]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.01-01.57.04:353][985]LogInit: Display: PreExit Game.
+[2023.05.01-01.57.04:371][985]LogWorld: BeginTearingDown for /Game/Mabel/Maps/OrderMap
+[2023.05.01-01.57.04:372][985]LogWorld: UWorld::CleanupWorld for OrderMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.01-01.57.04:382][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.01-01.57.05:295][985]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.01-01.57.05:295][985]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.01-01.57.05:295][985]LogAudio: Display: Audio Device unregistered from world 'OrderMap'.
+[2023.05.01-01.57.05:299][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.01-01.57.05:300][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.01-01.57.05:307][985]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.01-01.57.05:311][985]LogExit: Preparing to exit.
+[2023.05.01-01.57.05:320][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.01-01.57.05:332][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.01-01.57.06:256][985]LogMoviePlayer: Shutting down movie player
+[2023.05.01-01.57.06:419][985]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.05.01-01.57.06:424][985]LogExit: Game engine shut down
+[2023.05.01-01.57.06:561][985]LogExit: Object subsystem successfully closed.
+[2023.05.01-01.57.06:581][985]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.01-01.57.06:582][985]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.01-01.57.06:582][985]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.01-01.57.06:582][985]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.05.01-01.57.06:582][985]LogShaderCompilers: Display: ================================================
+[2023.05.01-01.57.06:603][985]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.01-01.57.06:648][985]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (560)
+[2023.05.01-01.57.06:648][985]LogModuleManager: Shutting down and abandoning module SequenceRecorder (558)
+[2023.05.01-01.57.06:648][985]LogModuleManager: Shutting down and abandoning module AutomationController (556)
+[2023.05.01-01.57.06:649][985]LogModuleManager: Shutting down and abandoning module AutomationWorker (554)
+[2023.05.01-01.57.06:650][985]LogModuleManager: Shutting down and abandoning module Voice (552)
+[2023.05.01-01.57.06:650][985]LogModuleManager: Shutting down and abandoning module AIModule (550)
+[2023.05.01-01.57.06:650][985]LogModuleManager: Shutting down and abandoning module GameplayDebugger (549)
+[2023.05.01-01.57.06:650][985]LogModuleManager: Shutting down and abandoning module AITestSuite (547)
+[2023.05.01-01.57.06:650][985]LogModuleManager: Shutting down and abandoning module NavigationSystem (545)
+[2023.05.01-01.57.06:650][985]LogModuleManager: Shutting down and abandoning module AnimGraph (542)
+[2023.05.01-01.57.06:651][985]LogModuleManager: Shutting down and abandoning module SteamVREditor (540)
+[2023.05.01-01.57.06:651][985]LogModuleManager: Shutting down and abandoning module ToolMenus (539)
+[2023.05.01-01.57.06:651][985]LogModuleManager: Shutting down and abandoning module OculusMR (536)
+[2023.05.01-01.57.06:651][985]LogModuleManager: Shutting down and abandoning module PlanarCut (534)
+[2023.05.01-01.57.06:651][985]LogModuleManager: Shutting down and abandoning module CharacterAI (532)
+[2023.05.01-01.57.06:651][985]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (530)
+[2023.05.01-01.57.06:652][985]LogModuleManager: Shutting down and abandoning module TakeRecorder (529)
+[2023.05.01-01.57.06:652][985]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (526)
+[2023.05.01-01.57.06:653][985]LogModuleManager: Shutting down and abandoning module TakesCore (524)
+[2023.05.01-01.57.06:653][985]LogModuleManager: Shutting down and abandoning module OpenXRInput (522)
+[2023.05.01-01.57.06:653][985]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (520)
+[2023.05.01-01.57.06:653][985]LogModuleManager: Shutting down and abandoning module WebMMedia (518)
+[2023.05.01-01.57.06:653][985]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (516)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (514)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (512)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (510)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (508)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (506)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module SessionServices (504)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (502)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module LiveCoding (500)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module LevelSequence (498)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (496)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module MovieScene (494)
+[2023.05.01-01.57.06:654][985]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (492)
+[2023.05.01-01.57.06:655][985]LogModuleManager: Shutting down and abandoning module PortalServices (490)
+[2023.05.01-01.57.06:655][985]LogModuleManager: Shutting down and abandoning module PortalRpc (488)
+[2023.05.01-01.57.06:655][985]LogModuleManager: Shutting down and abandoning module MessagingRpc (486)
+[2023.05.01-01.57.06:655][985]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (484)
+[2023.05.01-01.57.06:655][985]LogModuleManager: Shutting down and abandoning module AudioMixerCore (483)
+[2023.05.01-01.57.06:655][985]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (480)
+[2023.05.01-01.57.06:660][985]LogModuleManager: Shutting down and abandoning module ProfilerService (478)
+[2023.05.01-01.57.06:754][985]LogModuleManager: Shutting down and abandoning module TaskGraph (476)
+[2023.05.01-01.57.06:761][985]LogModuleManager: Shutting down and abandoning module OculusInput (474)
+[2023.05.01-01.57.06:762][985]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (472)
+[2023.05.01-01.57.06:762][985]LogModuleManager: Shutting down and abandoning module AppleImageUtils (470)
+[2023.05.01-01.57.06:762][985]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (468)
+[2023.05.01-01.57.06:762][985]LogOpenImageDenoise: OIDN shutting down
+[2023.05.01-01.57.06:762][985]LogModuleManager: Shutting down and abandoning module MotoSynth (466)
+[2023.05.01-01.57.06:762][985]LogModuleManager: Shutting down and abandoning module MeshConversion (464)
+[2023.05.01-01.57.06:762][985]LogModuleManager: Shutting down and abandoning module DynamicMesh (462)
+[2023.05.01-01.57.06:762][985]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (460)
+[2023.05.01-01.57.06:763][985]LogModuleManager: Shutting down and abandoning module GeometricObjects (458)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (456)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (455)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (452)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (451)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module GeometryCache (448)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (447)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module ChaosNiagara (444)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module BackChannel (442)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module AutomationUtils (440)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (438)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module TakeMovieScene (436)
+[2023.05.01-01.57.06:764][985]LogModuleManager: Shutting down and abandoning module Synthesis (434)
+[2023.05.01-01.57.06:765][985]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (432)
+[2023.05.01-01.57.06:765][985]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (430)
+[2023.05.01-01.57.06:765][985]LogModuleManager: Shutting down and abandoning module GooglePAD (428)
+[2023.05.01-01.57.06:765][985]LogModuleManager: Shutting down and abandoning module CableComponent (426)
+[2023.05.01-01.57.06:765][985]LogModuleManager: Shutting down and abandoning module EditableMesh (424)
+[2023.05.01-01.57.06:765][985]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (423)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (420)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module AudioCapture (418)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (417)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module AssetTags (414)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (412)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module AndroidPermission (410)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (408)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module ImgMedia (406)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module MediaCompositing (404)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (402)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (400)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (398)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module TemplateSequence (396)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (394)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (392)
+[2023.05.01-01.57.06:766][985]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (390)
+[2023.05.01-01.57.06:767][985]LogModuleManager: Shutting down and abandoning module HotReload (389)
+[2023.05.01-01.57.06:767][985]LogModuleManager: Shutting down and abandoning module UObjectPlugin (386)
+[2023.05.01-01.57.06:767][985]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (384)
+[2023.05.01-01.57.06:767][985]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2023.05.01-01.57.06:767][985]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (380)
+[2023.05.01-01.57.06:768][985]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (378)
+[2023.05.01-01.57.06:769][985]LogModuleManager: Shutting down and abandoning module SourceControl (377)
+[2023.05.01-01.57.06:769][985]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (374)
+[2023.05.01-01.57.06:769][985]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (372)
+[2023.05.01-01.57.06:769][985]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (370)
+[2023.05.01-01.57.06:769][985]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (368)
+[2023.05.01-01.57.06:769][985]LogModuleManager: Shutting down and abandoning module LiveLink (366)
+[2023.05.01-01.57.06:880][985]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (364)
+[2023.05.01-01.57.06:880][985]LogModuleManager: Shutting down and abandoning module SoundFields (362)
+[2023.05.01-01.57.06:880][985]LogModuleManager: Shutting down and abandoning module SignificanceManager (360)
+[2023.05.01-01.57.06:880][985]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (358)
+[2023.05.01-01.57.06:880][985]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (356)
+[2023.05.01-01.57.06:883][985]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (354)
+[2023.05.01-01.57.06:883][985]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (350)
+[2023.05.01-01.57.06:883][985]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (348)
+[2023.05.01-01.57.06:883][985]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (346)
+[2023.05.01-01.57.06:883][985]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (344)
+[2023.05.01-01.57.06:883][985]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (342)
+[2023.05.01-01.57.06:883][985]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (340)
+[2023.05.01-01.57.06:883][985]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (338)
+[2023.05.01-01.57.06:884][985]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (336)
+[2023.05.01-01.57.06:884][985]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.05.01-01.57.06:884][985]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (334)
+[2023.05.01-01.57.06:884][985]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (332)
+[2023.05.01-01.57.06:884][985]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (330)
+[2023.05.01-01.57.06:885][985]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (328)
+[2023.05.01-01.57.06:885][985]LogModuleManager: Shutting down and abandoning module MagicLeapController (326)
+[2023.05.01-01.57.06:885][985]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (324)
+[2023.05.01-01.57.06:885][985]LogModuleManager: Shutting down and abandoning module MagicLeapAR (322)
+[2023.05.01-01.57.06:885][985]LogModuleManager: Shutting down and abandoning module ActorSequence (320)
+[2023.05.01-01.57.06:885][985]LogModuleManager: Shutting down and abandoning module UdpMessaging (318)
+[2023.05.01-01.57.06:985][985]LogModuleManager: Shutting down and abandoning module TcpMessaging (316)
